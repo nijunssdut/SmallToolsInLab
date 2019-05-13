@@ -1,0 +1,599 @@
+1	TOCS	ACM Transactions on Computer Systems	A类	期刊	计算机体系结构/并行与分布计算/存储系统
+2	TOC	IEEE Transactions on Computers	A类	期刊	计算机体系结构/并行与分布计算/存储系统
+3	TPDS	IEEE Transactions on Parallel and Distributed Systems	A类	期刊	计算机体系结构/并行与分布计算/存储系统
+4	TCAD	IEEE Transactions On Computer-Aided Design Of Integrated Circuits And System	A类	期刊	计算机体系结构/并行与分布计算/存储系统
+5	TOS	ACM Transactions on Storage	A类	期刊	计算机体系结构/并行与分布计算/存储系统
+6	TACO	ACM Transactions on Architecture and Code Optimization	B类	期刊	计算机体系结构/并行与分布计算/存储系统
+7	TAAS	ACM Transactions on Autonomous and Adaptive Systems	B类	期刊	计算机体系结构/并行与分布计算/存储系统
+8	TODAES	ACM Transactions on Design Automation of Electronic Systems	B类	期刊	计算机体系结构/并行与分布计算/存储系统
+9	TECS	ACM Transactions on Embedded Computing Systems	B类	期刊	计算机体系结构/并行与分布计算/存储系统
+10	TRETS	ACM Transactions on Reconfigurable Technology and Systems	B类	期刊	计算机体系结构/并行与分布计算/存储系统
+11	TVLSI	IEEE Transactions on VLSI Systems	B类	期刊	计算机体系结构/并行与分布计算/存储系统
+12	JPDC	Journal of Parallel and Distributed Computing	B类	期刊	计算机体系结构/并行与分布计算/存储系统
+13	PARCO	Parallel Computing	B类	期刊	计算机体系结构/并行与分布计算/存储系统
+14	 	Performance Evaluation: An International Journal	B类	期刊	计算机体系结构/并行与分布计算/存储系统
+15	JSA	Journal of Systems Architecture	B类	期刊	计算机体系结构/并行与分布计算/存储系统
+16	 	Concurrency and Computation: Practice and Experience	C类	期刊	计算机体系结构/并行与分布计算/存储系统
+17	DC	Distributed Computing	C类	期刊	计算机体系结构/并行与分布计算/存储系统
+18	FGCS	Future Generation Computer Systems	C类	期刊	计算机体系结构/并行与分布计算/存储系统
+19	Integration	Integration, the VLSI Journal	C类	期刊	计算机体系结构/并行与分布计算/存储系统
+20	 	Microprocessors and Microsystems: Embedded Hardware Design	C类	期刊	计算机体系结构/并行与分布计算/存储系统
+21	JGC	The Journal of Grid computing	C类	期刊	计算机体系结构/并行与分布计算/存储系统
+22	TJSC	The Journal of Supercomputing	C类	期刊	计算机体系结构/并行与分布计算/存储系统
+23	JETC	The ACM Journal on Emerging Technologies in Computing Systems	C类	期刊	计算机体系结构/并行与分布计算/存储系统
+24	JET	Journal of Electronic Testing-Theory and Applications	C类	期刊	计算机体系结构/并行与分布计算/存储系统
+25	RTS	Real-Time Systems	C类	期刊	计算机体系结构/并行与分布计算/存储系统
+26	ASPLOS	Architectural Support for Programming Languages and Operating Systems	A类	会议	计算机体系结构/并行与分布计算/存储系统
+27	FAST	Conference on File and Storage Technologies	A类	会议	计算机体系结构/并行与分布计算/存储系统
+28	HPCA	High-Performance Computer Architecture	A类	会议	计算机体系结构/并行与分布计算/存储系统
+29	ISCA	International Symposium on Computer Architecture	A类	会议	计算机体系结构/并行与分布计算/存储系统
+30	MICRO	MICRO	A类	会议	计算机体系结构/并行与分布计算/存储系统
+31	SC	International Conference for High Performance Computing, Networking, Storage, and Analysis	A类	会议	计算机体系结构/并行与分布计算/存储系统
+32	USENIX ATC	USENIX Annul Technical Conference	A类	会议	计算机体系结构/并行与分布计算/存储系统
+33	PPoPP	Principles and Practice of Parallel Programming	A类	会议	计算机体系结构/并行与分布计算/存储系统
+34	HOT CHIPS	ACM Symposium on High Performance Chips	B类	会议	计算机体系结构/并行与分布计算/存储系统
+35	SPAA	ACM Symposium on Parallelism in Algorithms and Architectures	B类	会议	计算机体系结构/并行与分布计算/存储系统
+36	PODC	ACM Symposium on Principles of Distributed Computing	B类	会议	计算机体系结构/并行与分布计算/存储系统
+37	CGO	Code Generation and Optimization	B类	会议	计算机体系结构/并行与分布计算/存储系统
+38	DAC	Design Automation Conference	B类	会议	计算机体系结构/并行与分布计算/存储系统
+39	DATE	Design, Automation & Test in Europe Conference	B类	会议	计算机体系结构/并行与分布计算/存储系统
+40	EuroSys	EuroSys	B类	会议	计算机体系结构/并行与分布计算/存储系统
+41	HPDC	High-Performance Distributed Computing	B类	会议	计算机体系结构/并行与分布计算/存储系统
+42	ICCD	International Conference on Computer Design	B类	会议	计算机体系结构/并行与分布计算/存储系统
+43	ICCAD	International Conference on Computer-Aided Design	B类	会议	计算机体系结构/并行与分布计算/存储系统
+44	ICDCS	International Conference on Distributed Computing Systems	B类	会议	计算机体系结构/并行与分布计算/存储系统
+45	HiPEAC	International Conference on High Performance and Embedded Architectures and Compilers	B类	会议	计算机体系结构/并行与分布计算/存储系统
+46	SIGMETRICS	International Conference on Measurement and Modeling of Computer Systems	B类	会议	计算机体系结构/并行与分布计算/存储系统
+47	ICPP	International Conference on Parallel Processing	B类	会议	计算机体系结构/并行与分布计算/存储系统
+48	ICS	International Conference on Supercomputing	B类	会议	计算机体系结构/并行与分布计算/存储系统
+49	IPDPS	International Parallel & Distributed Processing Symposium	B类	会议	计算机体系结构/并行与分布计算/存储系统
+50	FPGA	ACM/SIGDA International Symposium on Field-Programmable Gate Arrays	B类	会议	计算机体系结构/并行与分布计算/存储系统
+51	Performance	International Symposium on Computer Performance, Modeling, Measurements and Evaluation	B类	会议	计算机体系结构/并行与分布计算/存储系统
+52	LISA	Large Installation system Administration Conference	B类	会议	计算机体系结构/并行与分布计算/存储系统
+53	MSST	Mass Storage Systems and Technologies	B类	会议	计算机体系结构/并行与分布计算/存储系统
+54	PACT	Parallel Architectures and Compilation Techniques	B类	会议	计算机体系结构/并行与分布计算/存储系统
+55	RTAS	Real-Time and Embedded Technology and Applications Symposium	B类	会议	计算机体系结构/并行与分布计算/存储系统
+56	VEE	Virtual Execution Environments	B类	会议	计算机体系结构/并行与分布计算/存储系统
+57	CODES+ISSS	ACM/IEEE Conf. Hardware/Software Co-design and System Synthesis	B类	会议	计算机体系结构/并行与分布计算/存储系统
+58	ITC	International Test Conference	B类	会议	计算机体系结构/并行与分布计算/存储系统
+59	SOCC	ACM Symposium on Cloud Computing	B类	会议	计算机体系结构/并行与分布计算/存储系统
+60	CF	ACM International Conference on Computing Frontiers	C类	会议	计算机体系结构/并行与分布计算/存储系统
+61	NOCS	ACM/IEEE International Symposium on Networks-on-Chip	C类	会议	计算机体系结构/并行与分布计算/存储系统
+62	ASP-DAC	Asia and South Pacific Design Automation Conference	C类	会议	计算机体系结构/并行与分布计算/存储系统
+63	ASAP	Application-Specific Systems, Architectures, and Processors	C类	会议	计算机体系结构/并行与分布计算/存储系统
+64	CLUSTER	Cluster Computing	C类	会议	计算机体系结构/并行与分布计算/存储系统
+65	CCGRID	Cluster Computing and the Grid	C类	会议	计算机体系结构/并行与分布计算/存储系统
+66	Euro-Par	European Conference on Parallel and Distributed Computing	C类	会议	计算机体系结构/并行与分布计算/存储系统
+67	ETS	European Test Symposium	C类	会议	计算机体系结构/并行与分布计算/存储系统
+68	FPL	Field Programmable Logic and Applications	C类	会议	计算机体系结构/并行与分布计算/存储系统
+69	FCCM	Field-Programmable Custom Computing Machines	C类	会议	计算机体系结构/并行与分布计算/存储系统
+70	GLSVLSI	Great Lakes Symposium on VLSI Systems	C类	会议	计算机体系结构/并行与分布计算/存储系统
+71	HPCC	IEEE International Conference on High Performance Computing and Communications	C类	会议	计算机体系结构/并行与分布计算/存储系统
+72	MASCOTS	IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems	C类	会议	计算机体系结构/并行与分布计算/存储系统
+73	NPC	IFIP International Conference on Network and Parallel Computing	C类	会议	计算机体系结构/并行与分布计算/存储系统
+74	ICA3PP	International Conference on Algorithms and Architectures for Parallel Processing	C类	会议	计算机体系结构/并行与分布计算/存储系统
+75	CASES	International Conference on Compilers, Architectures, and Synthesis for Embedded Systems	C类	会议	计算机体系结构/并行与分布计算/存储系统
+76	FPT	International Conference on Field-Programmable Technology	C类	会议	计算机体系结构/并行与分布计算/存储系统
+77	HPC	International Conference on High Performance Computing	C类	会议	计算机体系结构/并行与分布计算/存储系统
+78	ICPADS	International Conference on Parallel and Distributed Systems	C类	会议	计算机体系结构/并行与分布计算/存储系统
+79	ISCAS	International Symposium on Circuits and Systems	C类	会议	计算机体系结构/并行与分布计算/存储系统
+80	ISLPED	International Symposium on Low Power Electronics and Design	C类	会议	计算机体系结构/并行与分布计算/存储系统
+81	ISPD	International Symposium on Physical Design	C类	会议	计算机体系结构/并行与分布计算/存储系统
+82	Hot Interconnects	Symposium on High-Performance Interconnects	C类	会议	计算机体系结构/并行与分布计算/存储系统
+83	VTS	VLSI Test Symposium	C类	会议	计算机体系结构/并行与分布计算/存储系统
+84	ISPA	Sym. on Parallel and Distributed Processing with Applications	C类	会议	计算机体系结构/并行与分布计算/存储系统
+85	SYSTOR	ACM SIGOPS International Systems and Storage Conference	C类	会议	计算机体系结构/并行与分布计算/存储系统
+86	ATS	IEEE Asian Test Symposium	C类	会议	计算机体系结构/并行与分布计算/存储系统
+87	TON	IEEE/ACM Transactions on Networking	A类	期刊	计算机网络
+88	JSAC	IEEE Journal of Selected Areas in Communications	A类	期刊	计算机网络
+89	TMC	IEEE Transactions on Mobile Computing	A类	期刊	计算机网络
+90	TOIT	ACM Transactions on Internet Technology	B类	期刊	计算机网络
+91	TOMCCAP	ACM Transactions on Multimedia Computing, Communications and Applications	B类	期刊	计算机网络
+92	TOSN	ACM Transactions on Sensor Networks	B类	期刊	计算机网络
+93	CN	Computer Networks	B类	期刊	计算机网络
+94	TOC	IEEE Transactions on Communications	B类	期刊	计算机网络
+95	TWC	IEEE Transactions on Wireless Communications	B类	期刊	计算机网络
+96	 	Ad hoc Networks	C类	期刊	计算机网络
+97	CC	Computer Communications	C类	期刊	计算机网络
+98	 	IET Communications	C类	期刊	计算机网络
+99	JNCA	Journal of Network and Computer Applications	C类	期刊	计算机网络
+100	MONET	Mobile Networks & Applications	C类	期刊	计算机网络
+101	 	Networks	C类	期刊	计算机网络
+102	PPNA	Peer-to-Peer Networking and Applications	C类	期刊	计算机网络
+103	TNSM	IEEE Transactions on Network and Service Management	C类	期刊	计算机网络
+104	WCMC	Wireless Communications & Mobile Computing	C类	期刊	计算机网络
+105	 	Wireless Networks	C类	期刊	计算机网络
+106	MOBICOM	ACM International Conference on Mobile Computing and Networking	A类	会议	计算机网络
+107	SIGCOMM	ACM International Conference on the applications, technologies, architectures, and protocols for computer communication	A类	会议	计算机网络
+108	INFOCOM	IEEE International Conference on Computer Communications	A类	会议	计算机网络
+109	SenSys	ACM Conference on Embedded Networked Sensor Systems	B类	会议	计算机网络
+110	CoNEXT	ACM International Conference on emerging Networking EXperiments and Technologies	B类	会议	计算机网络
+111	SECON	IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networks	B类	会议	计算机网络
+112	IPSN	International Conference on Information Processing in Sensor Networks	B类	会议	计算机网络
+113	ICNP	International Conference on Network Protocols	B类	会议	计算机网络
+114	MobiHoc	International Symposium on Mobile Ad Hoc Networking and Computing	B类	会议	计算机网络
+115	MobiSys	International Conference on Mobile Systems, Applications, and Services	B类	会议	计算机网络
+116	IWQoS	International Workshop on Quality of Service	B类	会议	计算机网络
+117	IMC	Internet Measurement Conference	B类	会议	计算机网络
+118	NOSSDAV	Network and Operating System Support for Digital Audio and Video	B类	会议	计算机网络
+119	NSDI	Symposium on Network System Design and Implementation	B类	会议	计算机网络
+120	ANCS	Architectures for Networking and Communications Systems	C类	会议	计算机网络
+121	FORTE	Formal Techniques for Networked and Distributed Systems	C类	会议	计算机网络
+122	LCN	IEEE Conference on Local Computer Networks	C类	会议	计算机网络
+123	Globecom	IEEE Global Communications Conference, incorporating the Global Internet Symposium	C类	会议	计算机网络
+124	ICC	IEEE International Conference on Communications	C类	会议	计算机网络
+125	ICCCN	IEEE International Conference on Computer Communications and Networks	C类	会议	计算机网络
+126	MASS	IEEE International Conference on Mobile Adhoc and Sensor Systems	C类	会议	计算机网络
+127	P2P	IEEE International Conference on P2P Computing	C类	会议	计算机网络
+128	IPCCC	IEEE International Performance Computing and Communications Conference	C类	会议	计算机网络
+129	WoWMoM	IEEE International Symposium on a World of Wireless Mobile and Multimedia Networks	C类	会议	计算机网络
+130	ISCC	IEEE Symposium on Computers and Communications	C类	会议	计算机网络
+131	WCNC	IEEE Wireless Communications & Networking Conference	C类	会议	计算机网络
+132	Networking	IFIP International Conferences on Networking	C类	会议	计算机网络
+133	IM	IFIP/IEEE International Symposium on Integrated Network Management	C类	会议	计算机网络
+134	MSWiM	International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems	C类	会议	计算机网络
+135	NOMS	Asia-Pacific Network Operations and Management Symposium	C类	会议	计算机网络
+136	HotNets	The Workshop on Hot Topics in Networks	C类	会议	计算机网络
+137	WASA	International Conference on Wireless Algorithms, Systems, and Applications	C类	会议	计算机网络
+138	TDSC	IEEE Transactions on Dependable and Secure Computing	A类	期刊	网络与信息安全
+139	TIFS	IEEE Transactions on Information Forensics and Security	A类	期刊	网络与信息安全
+140	 	Journal of Cryptology	A类	期刊	网络与信息安全
+141	TISSEC	ACM Transactions on Information and System Security	B类	期刊	网络与信息安全
+142	 	Computers & Security	B类	期刊	网络与信息安全
+143	 	Designs, Codes and Cryptography	B类	期刊	网络与信息安全
+144	JCS	Journal of Computer Security	B类	期刊	网络与信息安全
+145	CLSR	Computer Law and Security Reports	C类	期刊	网络与信息安全
+146	 	EURASIP Journal on Information Security	C类	期刊	网络与信息安全
+147	 	IET Information Security	C类	期刊	网络与信息安全
+148	IMCS	Information Management & Computer Security	C类	期刊	网络与信息安全
+149	ISTR	Information Security Technical Report	C类	期刊	网络与信息安全
+150	IJISP	International Journal of Information Security and Privacy	C类	期刊	网络与信息安全
+151	IJICS	International Journal of Information and Computer Security	C类	期刊	网络与信息安全
+152	SCN	Security and Communication Networks	C类	期刊	网络与信息安全
+153	CCS	ACM Conference on Computer and Communications Security	A类	会议	网络与信息安全
+154	CRYPTO	International Cryptology Conference	A类	会议	网络与信息安全
+155	EUROCRYPT	European Cryptology Conference	A类	会议	网络与信息安全
+156	S&P	IEEE Symposium on Security and Privacy	A类	会议	网络与信息安全
+157	USENIX Security	Usenix Security Symposium	A类	会议	网络与信息安全
+158	ACSAC	Annual Computer Security Applications Conference	B类	会议	网络与信息安全
+159	ASIACRYPT	Annual International Conference on the Theory and Application of Cryptology and Information Security	B类	会议	网络与信息安全
+160	ESORICS	EuropeanSymposiumonResearchinComputerSecurity	B类	会议	网络与信息安全
+161	FSE	Fast Software Encryption	B类	会议	网络与信息安全
+162	NDSS	ISOC Network and Distributed System Workshop	B类	会议	网络与信息安全
+163	CSFW	IEEE Computer Security Foundations Workshop	B类	会议	网络与信息安全
+164	RAID	International Symposium on Recent Advances in Intrusion Detection	B类	会议	网络与信息安全
+165	PKC	International Workshop on Practice and Theory in Public Key Cryptography	B类	会议	网络与信息安全
+166	DSN	The International Conference on Dependable Systems and Networks	B类	会议	网络与信息安全
+167	TCC	Theory of Cryptography Conference	B类	会议	网络与信息安全
+168	SRDS	IEEE International Symposium on Reliable Distributed Systems	B类	会议	网络与信息安全
+169	CHES	Workshop on Cryptographic Hardware and Embedded Systems	B类	会议	网络与信息安全
+170	WiSec	ACM Conference on Security and Privacy in Wireless and Mobile Networks	C类	会议	网络与信息安全
+171	ACM MM&SEC	ACM Multimedia and Security Workshop	C类	会议	网络与信息安全
+172	SACMAT	ACM Symposium on Access Control Models and Technologies	C类	会议	网络与信息安全
+173	ASIACCS	ACM Symposium on Information, Computer and Communications Security	C类	会议	网络与信息安全
+174	DRM	ACM Workshop on Digital Rights Management	C类	会议	网络与信息安全
+175	ACNS	Applied Cryptography and Network Security	C类	会议	网络与信息安全
+176	ACISP	AustralasiaConferenceonInformation SecurityandPrivacy	C类	会议	网络与信息安全
+177	DFRWS	Digital Forensic Research Workshop	C类	会议	网络与信息安全
+178	FC	Financial Cryptography and Data Security	C类	会议	网络与信息安全
+179	DIMVA	Detection of Intrusions and Malware &Vulnerability Assessment	C类	会议	网络与信息安全
+180	SEC	IFIP International Information Security Conference	C类	会议	网络与信息安全
+181	IFIP WG 11.9	IFIP WG 11.9 International Conference on Digital Forensics	C类	会议	网络与信息安全
+182	ISC	Information Security Conference	C类	会议	网络与信息安全
+183	ICICS	International Conference on Information and Communications Security	C类	会议	网络与信息安全
+184	SecureComm	International Conference on Security and Privacy in Communication Networks	C类	会议	网络与信息安全
+185	NSPW	New Security Paradigms Workshop	C类	会议	网络与信息安全
+186	CT-RSA	RSA Conference, Cryptographers' Track	C类	会议	网络与信息安全
+187	SOUPS	Symposium On Usable Privacy and Security	C类	会议	网络与信息安全
+188	HotSec	USENIX Workshop on Hot Topics in Security	C类	会议	网络与信息安全
+189	SAC	Selected Areas in Cryptography	C类	会议	网络与信息安全
+190	TrustCom	IEEE International Conference on Trust,Security and Privacy in Computing and Communications	C类	会议	网络与信息安全
+191	PAM	Passive and Active Measurement Conference	C类	会议	网络与信息安全
+192	PETS	Privacy Enhancing Technologies Symposium	C类	会议	网络与信息安全
+193	 	International Conference on Digital Forensics & Cyber Crime	C类	会议	网络与信息安全
+194	TOPLAS	ACM Transactions on Programming Languages & Systems	A类	期刊	软件工程/系统软件/程序设计语言
+195	TOSEM	ACM Transactions on Software Engineering Methodology	A类	期刊	软件工程/系统软件/程序设计语言
+196	TSE	IEEE Transactions on Software Engineering	A类	期刊	软件工程/系统软件/程序设计语言
+197	ASE	Automated Software Engineering	B类	期刊	软件工程/系统软件/程序设计语言
+198	ESE	Empirical Software Engineering	B类	期刊	软件工程/系统软件/程序设计语言
+199	TSC	IEEE Transactions on Service Computing	B类	期刊	软件工程/系统软件/程序设计语言
+200	IETS	IET Software	B类	期刊	软件工程/系统软件/程序设计语言
+201	IST	Information and Software Technology	B类	期刊	软件工程/系统软件/程序设计语言
+202	JFP	Journal of Functional Programming	B类	期刊	软件工程/系统软件/程序设计语言
+203	 	Journal of Software: Evolution and Process	B类	期刊	软件工程/系统软件/程序设计语言
+204	JSS	Journal of Systems and Software	B类	期刊	软件工程/系统软件/程序设计语言
+205	RE	Requirements Engineering	B类	期刊	软件工程/系统软件/程序设计语言
+206	SCP	Science of Computer Programming	B类	期刊	软件工程/系统软件/程序设计语言
+207	SoSyM	Software and System Modeling	B类	期刊	软件工程/系统软件/程序设计语言
+208	SPE	Software: Practice and Experience	B类	期刊	软件工程/系统软件/程序设计语言
+209	STVR	Software Testing, Verification and Reliability	B类	期刊	软件工程/系统软件/程序设计语言
+210	CL	Computer Languages, Systems and Structures	C类	期刊	软件工程/系统软件/程序设计语言
+211	IJSEKE	International Journal on Software Engineering and Knowledge Engineering	C类	期刊	软件工程/系统软件/程序设计语言
+212	STTT	International Journal on Software Tools for Technology Transfer	C类	期刊	软件工程/系统软件/程序设计语言
+213	JLAP	Journal of Logic and Algebraic Programming	C类	期刊	软件工程/系统软件/程序设计语言
+214	JWE	Journal of Web Engineering	C类	期刊	软件工程/系统软件/程序设计语言
+215	SOCA	Service Oriented Computing and Applications	C类	期刊	软件工程/系统软件/程序设计语言
+216	SQJ	Software Quality Journal	C类	期刊	软件工程/系统软件/程序设计语言
+217	TPLP	Theory and Practice of Logic Programming	C类	期刊	软件工程/系统软件/程序设计语言
+218	FSE/ESEC	ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference	A类	会议	软件工程/系统软件/程序设计语言
+219	OOPSLA	Conference on Object-Oriented Programming Systems, Languages,and Applications	A类	会议	软件工程/系统软件/程序设计语言
+220	ICSE	International Conference on Software Engineering	A类	会议	软件工程/系统软件/程序设计语言
+221	OSDI	USENIX Symposium on Operating Systems Design and Implementations	A类	会议	软件工程/系统软件/程序设计语言
+222	PLDI	ACM SIGPLAN Symposium on Programming Language Design & Implementation	A类	会议	软件工程/系统软件/程序设计语言
+223	POPL	ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages	A类	会议	软件工程/系统软件/程序设计语言
+224	SOSP	ACM Symposium on Operating Systems Principles	A类	会议	软件工程/系统软件/程序设计语言
+225	ASE	International Conference on Automated Software Engineering	A类	会议	软件工程/系统软件/程序设计语言
+226	ECOOP	European Conference on Object-Oriented Programming	B类	会议	软件工程/系统软件/程序设计语言
+227	ETAPS	European Joint Conferences on Theory and Practice of Software	B类	会议	软件工程/系统软件/程序设计语言
+228	FM	World Congress on Formal Methods	B类	会议	软件工程/系统软件/程序设计语言
+229	ICPC	IEEE International Conference on Program Comprehension	B类	会议	软件工程/系统软件/程序设计语言
+230	RE	IEEE International Requirement Engineering Conference	B类	会议	软件工程/系统软件/程序设计语言
+231	CAiSE	International Conference on Advanced Information Systems Engineering	B类	会议	软件工程/系统软件/程序设计语言
+232	ICFP	International Conference on Function Programming	B类	会议	软件工程/系统软件/程序设计语言
+233	LCTES	International Conference on Languages,Compilers, Tools and Theory for Embedded Systems	B类	会议	软件工程/系统软件/程序设计语言
+234	MoDELS	International Conference on Model Driven Engineering Languages and Systems	B类	会议	软件工程/系统软件/程序设计语言
+235	CP	International Conference on Principles and Practice of Constraint Programming	B类	会议	软件工程/系统软件/程序设计语言
+236	ICSOC	International Conference on Service Oriented Computing	B类	会议	软件工程/系统软件/程序设计语言
+237	ICSME	International Conference on Software Maintenance and Evolution	B类	会议	软件工程/系统软件/程序设计语言
+238	VMCAI	International Conference on Verification,Model Checking, and Abstract Interpretation	B类	会议	软件工程/系统软件/程序设计语言
+239	ICWS	International Conference on Web Services（Research Track）	B类	会议	软件工程/系统软件/程序设计语言
+240	SAS	International Static Analysis Symposium	B类	会议	软件工程/系统软件/程序设计语言
+241	ISSRE	International Symposium on Software Reliability Engineering	B类	会议	软件工程/系统软件/程序设计语言
+242	ISSTA	International Symposium on Software Testing and Analysis	B类	会议	软件工程/系统软件/程序设计语言
+243	Middleware	Conference on middleware	B类	会议	软件工程/系统软件/程序设计语言
+244	SANER	International Conference on Software Analysis, Evolution, and Reengineering	B类	会议	软件工程/系统软件/程序设计语言
+245	HotOS	USENIX Workshop on Hot Topics in Operating Systems	B类	会议	软件工程/系统软件/程序设计语言
+246	ESEM	International Symposium on Empirical Software Engineering and Measurement	B类	会议	软件工程/系统软件/程序设计语言
+247	PASTE	ACMSIGPLAN-SIGSOFT Workshop on Program Analysis for Software Tools and Engineering	C类	会议	软件工程/系统软件/程序设计语言
+248	APLAS	Asian Symposium on Programming Languages and Systems	C类	会议	软件工程/系统软件/程序设计语言
+249	APSEC	Asia-Pacific Software Engineering Conference	C类	会议	软件工程/系统软件/程序设计语言
+250	COMPSAC	International Computer Software and Applications Conference	C类	会议	软件工程/系统软件/程序设计语言
+251	ICECCS	IEEE International Conference on Engineering of Complex Computer Systems	C类	会议	软件工程/系统软件/程序设计语言
+252	SCAM	IEEE International Working Conference on Source Code Analysis and Manipulation	C类	会议	软件工程/系统软件/程序设计语言
+253	ICFEM	International Conference on Formal Engineering Methods	C类	会议	软件工程/系统软件/程序设计语言
+254	TOOLS	International Conference on Objects, Models, Components, Patterns	C类	会议	软件工程/系统软件/程序设计语言
+255	PEPM	ACM SIGPLAN Symposium on Partial Evaluation and Semantics Based Programming Manipulation	C类	会议	软件工程/系统软件/程序设计语言
+256	QRS	The IEEE International Conference on Software Quality, Reliability and Security	C类	会议	软件工程/系统软件/程序设计语言
+257	SEKE	International Conference on Software Engineering and Knowledge Engineering	C类	会议	软件工程/系统软件/程序设计语言
+258	ICSR	International Conference on Software Reuse	C类	会议	软件工程/系统软件/程序设计语言
+259	ICWE	International Conference on Web Engineering	C类	会议	软件工程/系统软件/程序设计语言
+260	SPIN	International SPIN Workshop on Model Checking of Software	C类	会议	软件工程/系统软件/程序设计语言
+261	LOPSTR	International Symposium on Logic-based Program Synthesis and Transformation	C类	会议	软件工程/系统软件/程序设计语言
+262	TASE	International Symposium on Theoretical Aspects of Software Engineering	C类	会议	软件工程/系统软件/程序设计语言
+263	ICST	The IEEE International Conference on Software Testing, Verification and Validation	C类	会议	软件工程/系统软件/程序设计语言
+264	ATVA	International Symposium on Automated Technology for Verification and Analysis	C类	会议	软件工程/系统软件/程序设计语言
+265	ISPASS	IEEE International Symposium on Performance Analysis of Systems and Software	C类	会议	软件工程/系统软件/程序设计语言
+266	SCC	International Conference on Service Computing	C类	会议	软件工程/系统软件/程序设计语言
+267	ICSSP	International Conference on Software and System Process	C类	会议	软件工程/系统软件/程序设计语言
+268	MSR	Working Conference on Mining Software Repositories	C类	会议	软件工程/系统软件/程序设计语言
+269	REFSQ	Requirements Engineering: Foundation for Software Quality	C类	会议	软件工程/系统软件/程序设计语言
+270	WICSA	Working IEEE/IFIP Conference on Software Architecture	C类	会议	软件工程/系统软件/程序设计语言
+271	EASE	Evaluation and Assessment in Software Engineering	C类	会议	软件工程/系统软件/程序设计语言
+272	TODS	ACM Transactions on Database Systems	A类	期刊	数据库/数据挖掘/内容检索
+273	TOIS	ACM Transactions on Information Systems	A类	期刊	数据库/数据挖掘/内容检索
+274	TKDE	IEEE Transactions on Knowledge and Data Engineering	A类	期刊	数据库/数据挖掘/内容检索
+275	VLDBJ	VLDB Journal	A类	期刊	数据库/数据挖掘/内容检索
+276	TKDD	ACM Transactions on Knowledge  Discovery from Data	B类	期刊	数据库/数据挖掘/内容检索
+277	AEI	Advanced Engineering Informatics	B类	期刊	数据库/数据挖掘/内容检索
+278	DKE	Data and Knowledge Engineering	B类	期刊	数据库/数据挖掘/内容检索
+279	DMKD	Data Mining and Knowledge  Discovery                                    	B类	期刊	数据库/数据挖掘/内容检索
+280	EJIS	European Journal of Information Systems	B类	期刊	数据库/数据挖掘/内容检索
+281	 	GeoInformatica	B类	期刊	数据库/数据挖掘/内容检索
+282	IPM	Information Processing and Management	B类	期刊	数据库/数据挖掘/内容检索
+283	 	Information Sciences	B类	期刊	数据库/数据挖掘/内容检索
+284	IS	Information Systems	B类	期刊	数据库/数据挖掘/内容检索
+285	JASIST	Journal of the American Society for Information Science and Technology	B类	期刊	数据库/数据挖掘/内容检索
+286	JWS	Journal of Web Semantics	B类	期刊	数据库/数据挖掘/内容检索
+287	KIS	Knowledge and Information Systems	B类	期刊	数据库/数据挖掘/内容检索
+288	TWEB	ACM Transactions on the Web	B类	期刊	数据库/数据挖掘/内容检索
+289	DPD	Distributed and Parallel Databases	C类	期刊	数据库/数据挖掘/内容检索
+290	I&M	Information and Management	C类	期刊	数据库/数据挖掘/内容检索
+291	IPL	Information Processing Letters	C类	期刊	数据库/数据挖掘/内容检索
+292	IR	Information Retrieval	C类	期刊	数据库/数据挖掘/内容检索
+293	IJCIS	International Journal of Cooperative Information Systems	C类	期刊	数据库/数据挖掘/内容检索
+294	IJGIS	International Journal of Geographical Information Science	C类	期刊	数据库/数据挖掘/内容检索
+295	IJIS	International Journal of Intelligent Systems	C类	期刊	数据库/数据挖掘/内容检索
+296	IJKM	International Journal of Knowledge Management	C类	期刊	数据库/数据挖掘/内容检索
+297	IJSWIS	International Journal on Semantic Web and Information Systems	C类	期刊	数据库/数据挖掘/内容检索
+298	JCIS	Journal of Computer Information Systems	C类	期刊	数据库/数据挖掘/内容检索
+299	JDM	Journal of Database Management	C类	期刊	数据库/数据挖掘/内容检索
+300	JGITM	Journal of Global Information Technology Management	C类	期刊	数据库/数据挖掘/内容检索
+301	JIIS	Journal of Intelligent Information Systems	C类	期刊	数据库/数据挖掘/内容检索
+302	JSIS	Journal of Strategic Information Systems	C类	期刊	数据库/数据挖掘/内容检索
+303	SIGMOD	ACM Conference on Management of Data	A类	会议	数据库/数据挖掘/内容检索
+304	SIGKDD	ACM Knowledge Discovery and Data Mining	A类	会议	数据库/数据挖掘/内容检索
+305	SIGIR	International Conference on Research on Development in Information Retrieval	A类	会议	数据库/数据挖掘/内容检索
+306	VLDB	International Conference on Very Large Data Bases	A类	会议	数据库/数据挖掘/内容检索
+307	ICDE	IEEE International Conference on Data Engineering	A类	会议	数据库/数据挖掘/内容检索
+308	CIKM	ACM International Conference on Information and Knowledge Management	B类	会议	数据库/数据挖掘/内容检索
+309	PODS	ACM SIGMOD Conference on Principles of DB Systems	B类	会议	数据库/数据挖掘/内容检索
+310	DASFAA	Database Systems for Advanced Applications	B类	会议	数据库/数据挖掘/内容检索
+311	ECML-PKDD	European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases	B类	会议	数据库/数据挖掘/内容检索
+312	ISWC	IEEE International Semantic Web Conference	B类	会议	数据库/数据挖掘/内容检索
+313	ICDM	International Conference on Data Mining	B类	会议	数据库/数据挖掘/内容检索
+314	ICDT	International Conference on Database Theory	B类	会议	数据库/数据挖掘/内容检索
+315	EDBT	International Conference on Extending DB Technology	B类	会议	数据库/数据挖掘/内容检索
+316	CIDR	International Conference on Innovation  Database Research	B类	会议	数据库/数据挖掘/内容检索
+317	SDM	SIAM International Conference on Data Mining	B类	会议	数据库/数据挖掘/内容检索
+318	WSDM	ACM International Conference on Web Search and Data Mining	B类	会议	数据库/数据挖掘/内容检索
+319	DEXA	Database and Expert System Applications	C类	会议	数据库/数据挖掘/内容检索
+320	ECIR	European Conference on IR Research	C类	会议	数据库/数据挖掘/内容检索
+321	WebDB	International ACM Workshop on Web and Databases	C类	会议	数据库/数据挖掘/内容检索
+322	ER	International Conference on Conceptual Modeling	C类	会议	数据库/数据挖掘/内容检索
+323	MDM	International Conference on Mobile Data Management	C类	会议	数据库/数据挖掘/内容检索
+324	SSDBM	International Conference on Scientific and Statistical DB Management	C类	会议	数据库/数据挖掘/内容检索
+325	WAIM	International Conference on Web Age Information Management	C类	会议	数据库/数据挖掘/内容检索
+326	SSTD	International Symposium on Spatial and Temporal Databases	C类	会议	数据库/数据挖掘/内容检索
+327	PAKDD	Pacific-Asia Conference on Knowledge Discovery and Data Mining	C类	会议	数据库/数据挖掘/内容检索
+328	APWeb	The Asia Pacific Web Conference	C类	会议	数据库/数据挖掘/内容检索
+329	WISE	Web Information Systems Engineering	C类	会议	数据库/数据挖掘/内容检索
+330	ESWC	Extended Semantic Web Conference	C类	会议	数据库/数据挖掘/内容检索
+331	IANDC	Information and Computation	A类	期刊	计算机科学理论
+332	SICOMP	SIAM Journal on Computing	A类	期刊	计算机科学理论
+333	TIT	IEEE Transactions on Information Theory	A类	期刊	计算机科学理论
+334	TALG	ACM Transactions on Algorithms	B类	期刊	计算机科学理论
+335	TOCL	ACM Transactions on Computational Logic	B类	期刊	计算机科学理论
+336	TOMS	ACM Transactions on Mathematical Software	B类	期刊	计算机科学理论
+337	Algorithmica	Algorithmica	B类	期刊	计算机科学理论
+338	CC	Computational complexity	B类	期刊	计算机科学理论
+339	FAC	Formal Aspects of Computing	B类	期刊	计算机科学理论
+340	FMSD	Formal Methods in System Design	B类	期刊	计算机科学理论
+341	INFORMS	INFORMS Journal on Computing	B类	期刊	计算机科学理论
+342	JCSS	Journal of Computer and System Sciences	B类	期刊	计算机科学理论
+343	JGO	Journal of Global Optimization	B类	期刊	计算机科学理论
+344	JSC	Journal of Symbolic Computation	B类	期刊	计算机科学理论
+345	MSCS	Mathematical Structures in Computer Science	B类	期刊	计算机科学理论
+346	TCS	Theoretical Computer Science	B类	期刊	计算机科学理论
+347	APAL	Annals of Pure and Applied Logic	C类	期刊	计算机科学理论
+348	ACTA	Acta Informatica	C类	期刊	计算机科学理论
+349	DAM	Discrete Applied Mathematics	C类	期刊	计算机科学理论
+350	FUIN	Fundamenta Informaticae	C类	期刊	计算机科学理论
+351	LISP	Higher-Order and Symbolic Computation	C类	期刊	计算机科学理论
+352	JCOMPLEXITY	Journal of Complexity	C类	期刊	计算机科学理论
+353	LOGCOM	Journal of Logic and Computation	C类	期刊	计算机科学理论
+354	 	Journal of Symbolic Logic	C类	期刊	计算机科学理论
+355	LMCS	Logical Methods in Computer Science	C类	期刊	计算机科学理论
+356	SIDMA	SIAM Journal on Discrete Mathematics	C类	期刊	计算机科学理论
+357	 	Theory of Computing Systems	C类	期刊	计算机科学理论
+358	STOC	ACM Symposium on Theory of Computing	A类	会议	计算机科学理论
+359	FOCS	IEEE Symposium on Foundations of Computer Science	A类	会议	计算机科学理论
+360	LICS	IEEE Symposium on Logic in Computer Science	A类	会议	计算机科学理论
+361	CAV	Computer Aided Verification	A类	会议	计算机科学理论
+362	SoCG	ACM Symposium on Computational Geometry	B类	会议	计算机科学理论
+363	SODA	ACM-SIAM Symposium on Discrete Algorithms	B类	会议	计算机科学理论
+364	CADE/IJCAR	Conference on Automated Deduction/The International Joint Conference on Automated Reasoning	B类	会议	计算机科学理论
+365	CCC	IEEE Conference on Computational Complexity	B类	会议	计算机科学理论
+366	ICALP	International Colloquium on Automata, Languages and Programming	B类	会议	计算机科学理论
+367	CONCUR	International Conference on Concurrency Theory	B类	会议	计算机科学理论
+368	HSCC	International Conference on Hybrid Systems: Computation and Control	B类	会议	计算机科学理论
+369	ESA	European Symposium on Algorithms	B类	会议	计算机科学理论
+370	CSL	Computer Science Logic	C类	会议	计算机科学理论
+371	FSTTCS	Foundations of Software Technology and Theoretical Computer Science	C类	会议	计算机科学理论
+372	IPCO	International Conference on Integer Programming and Combinatorial Optimization	C类	会议	计算机科学理论
+373	RTA	International Conference on Integer Programming and Combinatorial Optimization Applications	C类	会议	计算机科学理论
+374	ISAAC	International Symposium on Algorithms and Computation	C类	会议	计算机科学理论
+375	MFCS	Mathematical Foundations of Computer Science	C类	会议	计算机科学理论
+376	STACS	Symposium on Theoretical Aspects of Computer Science	C类	会议	计算机科学理论
+377	FMCAD	Formal Method in Computer-Aided Design	C类	会议	计算机科学理论
+378	SAT	Theory and Applications of Satisfiability Testing	C类	会议	计算机科学理论
+379	ICTAC	International Colloquium on Theoretical Aspects of Computing	C类	会议	计算机科学理论
+380	TOG	ACM Transactions on Graphics	A类	期刊	计算机图形学与多媒体
+381	TIP	IEEE Transactions on Image Processing	A类	期刊	计算机图形学与多媒体
+382	TVCG	IEEE Transactions on Visualization and Computer Graphics	A类	期刊	计算机图形学与多媒体
+383	TOMCCAP	ACM Transactions on Multimedia Computing,Communications and Application	B类	期刊	计算机图形学与多媒体
+384	CAD	Computer-Aided Design	B类	期刊	计算机图形学与多媒体
+385	CAGD	Computer Aided Geometric Design	B类	期刊	计算机图形学与多媒体
+386	CGF	Computer Graphics Forum	B类	期刊	计算机图形学与多媒体
+387	GM	Graphical Models	B类	期刊	计算机图形学与多媒体
+388	TCSVT	IEEE Transactions on Circuits and Systems for Video Technology	B类	期刊	计算机图形学与多媒体
+389	TMM	IEEE Transactions on Multimedia	B类	期刊	计算机图形学与多媒体
+390	JASA	Journal of The Acoustical Society of America	B类	期刊	计算机图形学与多媒体
+391	SIIMS	SIAM Journal on Imaging Sciences	B类	期刊	计算机图形学与多媒体
+392	Speech Com	Speech Communication	B类	期刊	计算机图形学与多媒体
+393	CAVW	Computer Animation and Virtual Worlds	C类	期刊	计算机图形学与多媒体
+394	C&G	Computers & Graphics-UK	C类	期刊	计算机图形学与多媒体
+395	CGTA	Computational Geometry: Theory and Applications	C类	期刊	计算机图形学与多媒体
+396	DCG	Discrete & Computational Geometry	C类	期刊	计算机图形学与多媒体
+397	IET-IPR	IET Image Processing	C类	期刊	计算机图形学与多媒体
+398	 	IEEE Signal Processing Letter	C类	期刊	计算机图形学与多媒体
+399	JVCIR	Journal of Visual Communication and Image Representation	C类	期刊	计算机图形学与多媒体
+400	MS	Multimedia Systems	C类	期刊	计算机图形学与多媒体
+401	MTA	Multimedia Tools and Applications	C类	期刊	计算机图形学与多媒体
+402	 	Signal Processing	C类	期刊	计算机图形学与多媒体
+403	SPIC	Signal processing : image communication	C类	期刊	计算机图形学与多媒体
+404	TVC	The Visual Computer	C类	期刊	计算机图形学与多媒体
+405	ACM MM	ACM International Conference on Multimedia	A类	会议	计算机图形学与多媒体
+406	SIGGRAPH	ACM SIGGRAPH Annual Conference	A类	会议	计算机图形学与多媒体
+407	IEEE VIS	IEEE Visualization Conference	A类	会议	计算机图形学与多媒体
+408	VR	IEEE Virtual Reality	A类	会议	计算机图形学与多媒体
+409	ICMR	ACM SIGMM International Conference on Multimedia Retrieval	B类	会议	计算机图形学与多媒体
+410	i3D	ACM Symposium on Interactive 3D Graphics	B类	会议	计算机图形学与多媒体
+411	SCA	ACM/Eurographics Symposium on Computer Animation	B类	会议	计算机图形学与多媒体
+412	DCC	Data Compression Conference	B类	会议	计算机图形学与多媒体
+413	EG	Eurographics	B类	会议	计算机图形学与多媒体
+414	EuroVis	Eurographics Conference on Visualization	B类	会议	计算机图形学与多媒体
+415	SGP	Eurographics Symposium on Geometry Processing	B类	会议	计算机图形学与多媒体
+416	EGSR	Eurographics Symposium on Rendering	B类	会议	计算机图形学与多媒体
+417	ICME	IEEE International Conference on Multimedia& Expo	B类	会议	计算机图形学与多媒体
+418	PG	Pacific Graphics: The Pacific Conference on Computer Graphics and Applications	B类	会议	计算机图形学与多媒体
+419	SPM	Symposium on Solid and Physical Modeling	B类	会议	计算机图形学与多媒体
+420	ICASSP	IEEE International Conference on Acoustics,Speech and SP	B类	会议	计算机图形学与多媒体
+421	CASA	Computer Animation and Social Agents	C类	会议	计算机图形学与多媒体
+422	CGI	Computer Graphics International	C类	会议	计算机图形学与多媒体
+423	ISMAR	International Symposium on Mixed and Augmented Reality	C类	会议	计算机图形学与多媒体
+424	PacificVis	IEEE Pacific Visualization Symposium	C类	会议	计算机图形学与多媒体
+425	ICIP	International Conference on Image Processing	C类	会议	计算机图形学与多媒体
+426	MMM	International Conference on Multimedia Modeling	C类	会议	计算机图形学与多媒体
+427	GMP	Geometric Modeling and Processing	C类	会议	计算机图形学与多媒体
+428	PCM	Pacific-Rim Conference on Multimedia	C类	会议	计算机图形学与多媒体
+429	SMI	Shape Modeling International	C类	会议	计算机图形学与多媒体
+430	INTERSPEECH	　Conference of the International SpeechCommunication Association	C类	会议	计算机图形学与多媒体
+431	 	ACM Symposium on Virtual Reality Software and Technology	C类	会议	计算机图形学与多媒体
+432	AI	Artificial Intelligence	A类	期刊	人工智能
+433	TPAMI	IEEE Trans on Pattern Analysis and Machine Intelligence	A类	期刊	人工智能
+434	IJCV	International Journal of Computer Vision	A类	期刊	人工智能
+435	JMLR	Journal of Machine Learning Research	A类	期刊	人工智能
+436	TAP	ACM Transactions on Applied Perception	B类	期刊	人工智能
+437	TSLP	ACM Transactions on Speech and Language Processing	B类	期刊	人工智能
+438	 	Computational Linguistics	B类	期刊	人工智能
+439	CVIU	Computer Vision and Image Understanding	B类	期刊	人工智能
+440	 	Evolutionary Computation	B类	期刊	人工智能
+441	TAC	IEEE Transactions on Affective Computing	B类	期刊	人工智能
+442	TASLP	IEEE Transactions on Audio, Speech, and Language Processing	B类	期刊	人工智能
+443	 	IEEE Transactions on Cybernetics	B类	期刊	人工智能
+444	TEC	IEEE Transactions on Evolutionary Computation	B类	期刊	人工智能
+445	TFS	IEEE Transactions on Fuzzy Systems	B类	期刊	人工智能
+446	TNNLS	IEEE Transactions on Neural Networks and learning systems	B类	期刊	人工智能
+447	IJAR	International Journal of Approximate Reasoning	B类	期刊	人工智能
+448	JAIR	Journal of AI Research	B类	期刊	人工智能
+449	 	Journal of Automated Reasoning	B类	期刊	人工智能
+450	JSLHR	Journal of Speech, Language, and Hearing Research	B类	期刊	人工智能
+451	 	Machine Learning	B类	期刊	人工智能
+452	 	Neural Computation	B类	期刊	人工智能
+453	 	Neural Networks	B类	期刊	人工智能
+454	 	Pattern Recognition	B类	期刊	人工智能
+455	AAMAS	Autonomous Agents and Multi-Agent Systems	B类	期刊	人工智能
+456	TALIP	ACM Transactions on Asian Language Information Processing	C类	期刊	人工智能
+457	 	Applied Intelligence	C类	期刊	人工智能
+458	AIM	Artificial Intelligence in Medicine	C类	期刊	人工智能
+459	 	Artificial Life	C类	期刊	人工智能
+460	 	Computational Intelligence	C类	期刊	人工智能
+461	 	Computer Speech and Language	C类	期刊	人工智能
+462	 	Connection Science	C类	期刊	人工智能
+463	DSS	Decision Support Systems	C类	期刊	人工智能
+464	EAAI	Engineering Applications of Artificial Intelligence	C类	期刊	人工智能
+465	 	Expert Systems	C类	期刊	人工智能
+466	ESWA	Expert Systems with Applications	C类	期刊	人工智能
+467	 	Fuzzy Sets and Systems	C类	期刊	人工智能
+468	T-CIAIG	IEEE Transactions on Computational Intelligence and AI in Games	C类	期刊	人工智能
+469	IET-CVI	IET Computer Vision	C类	期刊	人工智能
+470	 	IET Signal Processing	C类	期刊	人工智能
+471	IVC	Image and Vision Computing	C类	期刊	人工智能
+472	IDA	Intelligent Data Analysis	C类	期刊	人工智能
+473	IJCIA	International Journal of Computational Intelligence and Applications	C类	期刊	人工智能
+474	IJDAR	International Journal on Document Analysis and Recognition	C类	期刊	人工智能
+475	IJNS	International Journal of Neural Systems	C类	期刊	人工智能
+476	IJPRAI	International Journal of Pattern Recognition and Artificial Intelligence	C类	期刊	人工智能
+477	 	International Journal of Uncertainty,Fuzziness and KBS	C类	期刊	人工智能
+478	JETAI	Journal of Experimental and Theoretical Artificial Intelligence	C类	期刊	人工智能
+479	KBS	Knowledge-Based Systems	C类	期刊	人工智能
+480	 	Machine Translation	C类	期刊	人工智能
+481	 	Machine Vision and Applications	C类	期刊	人工智能
+482	 	Natural Computing	C类	期刊	人工智能
+483	NLE	Natural Language Engineering	C类	期刊	人工智能
+484	NCA	Neural Computing & Applications	C类	期刊	人工智能
+485	NPL	Neural Processing Letters	C类	期刊	人工智能
+486	 	Neurocomputing	C类	期刊	人工智能
+487	PAA	Pattern Analysis and Applications	C类	期刊	人工智能
+488	PRL	Pattern Recognition Letters	C类	期刊	人工智能
+489	 	Soft Computing	C类	期刊	人工智能
+490	WIAS	Web Intelligence and Agent Systems	C类	期刊	人工智能
+491	AAAI	AAAI Conference on Artificial Intelligence	A类	会议	人工智能
+492	CVPR	IEEE Conference on Computer Vision and Pattern Recognition	A类	会议	人工智能
+493	ICCV	International Conference on Computer Vision	A类	会议	人工智能
+494	ICML	International Conference on Machine Learning	A类	会议	人工智能
+495	IJCAI	International Joint Conference on Artificial Intelligence	A类	会议	人工智能
+496	NIPS	Annual Conference on Neural Information Processing Systems	A类	会议	人工智能
+497	ACL	Annual Meeting of the Association for Computational Linguistics	A类	会议	人工智能
+498	COLT	Annual Conference on Computational Learning Theory	B类	会议	人工智能
+499	EMNLP	Conference on Empirical Methods in Natural Language Processing	B类	会议	人工智能
+500	ECAI	European Conference on Artificial Intelligence	B类	会议	人工智能
+501	ECCV	European Conference on Computer Vision	B类	会议	人工智能
+502	ICRA	IEEE International Conference on Robotics and Automation	B类	会议	人工智能
+503	ICAPS	International Conference on Automated Planning and Scheduling	B类	会议	人工智能
+504	ICCBR	International Conference on Case-Based Reasoning	B类	会议	人工智能
+505	COLING	International Conference on Computational Linguistics	B类	会议	人工智能
+506	KR	International Conference on Principles of Knowledge Representation and Reasoning	B类	会议	人工智能
+507	UAI	International Conference on Uncertaintyin Artificial Intelligence	B类	会议	人工智能
+508	AAMAS	International Joint Conference on Autonomous Agents and Multi-agent Systems	B类	会议	人工智能
+509	PPSN	Parallel Problem Solving from Nature	B类	会议	人工智能
+510	ACCV	Asian Conference on Computer Vision	C类	会议	人工智能
+511	CoNLL	Conference on Natural Language Learning	C类	会议	人工智能
+512	GECCO	Genetic and Evolutionary Computation Conference	C类	会议	人工智能
+513	ICTAI	IEEE International Conference on Tools with Artificial Intelligence	C类	会议	人工智能
+514	ALT	International Conference on Algorithmic Learning Theory	C类	会议	人工智能
+515	ICANN	International Conference on Artificial Neural Networks	C类	会议	人工智能
+516	FGR	International Conference on Automatic Face and Gesture Recognition	C类	会议	人工智能
+517	ICDAR	International Conference on Document Analysis and Recognition	C类	会议	人工智能
+518	ILP	International Conference on Inductive Logic Programming	C类	会议	人工智能
+519	KSEM	International conference on Knowledge Science,Engineering and Management	C类	会议	人工智能
+520	ICONIP	International Conference on Neural Information Processing	C类	会议	人工智能
+521	ICPR	International Conference on Pattern Recognition	C类	会议	人工智能
+522	ICB	International Joint Conference on Biometrics	C类	会议	人工智能
+523	IJCNN	International Joint Conference on Neural Networks	C类	会议	人工智能
+524	PRICAI	Pacific Rim International Conference on Artificial Intelligence	C类	会议	人工智能
+525	NAACL	The Annual Conference of the North  American Chapter of the Association for Computational Linguistics	C类	会议	人工智能
+526	BMVC	British Machine Vision Conference	C类	会议	人工智能
+527	IROS	IEEERSJ International Conference on Intelligent Robots and Systems	C类	会议	人工智能
+528	AISTATS	Artificial Intelligence and Statistics	C类	会议	人工智能
+529	ACML	Asian Conf. on Machine Learning	C类	会议	人工智能
+530	TOCHI	ACM Transactions on Computer-Human Interaction	A类	期刊	人机交互与普适计算
+531	IJHCS	International Journal of Human Computer Studies	A类	期刊	人机交互与普适计算
+532	CSCW	Computer Supported Cooperative Work	B类	期刊	人机交互与普适计算
+533	HCI	Human Computer Interaction	B类	期刊	人机交互与普适计算
+534	IWC	Interacting with Computers	B类	期刊	人机交互与普适计算
+535	UMUAI	User Modeling and User-Adapted Interaction	B类	期刊	人机交互与普适计算
+536	IJHCI	International Journal of Human-Computer Interaction	B类	期刊	人机交互与普适计算
+537	 	IEEE Transactions on Human-Machine Systems	B类	期刊	人机交互与普适计算
+538	BIT	Behaviour & Information Technology	C类	期刊	人机交互与普适计算
+539	PMC	Pervasive and Mobile Computing	C类	期刊	人机交互与普适计算
+540	PUC	Personal and Ubiquitous Computing	C类	期刊	人机交互与普适计算
+541	CHI	ACM Conference on Human Factors in Computing Systems	A类	会议	人机交互与普适计算
+542	UbiComp	ACM International Conference on Ubiquitous Computing	A类	会议	人机交互与普适计算
+543	CSCW	ACM Conference on Computer Supported Cooperative Work and Social Computing	A类	会议	人机交互与普适计算
+544	IUI	ACM International Conference on Intelligent User Interfaces	B类	会议	人机交互与普适计算
+545	ITS	ACM International Conference on Interactive Tabletops and Surfaces	B类	会议	人机交互与普适计算
+546	UIST	ACM Symposium on User Interface Software and Technology	B类	会议	人机交互与普适计算
+547	ECSCW	European Computer Supported Cooperative Work	B类	会议	人机交互与普适计算
+548	MobileHCI	International Conference on Human Computer Interaction with Mobile Devices and Services	B类	会议	人机交互与普适计算
+549	PERCOM	IEEE International Conference on Pervasive Computing and Communications	B类	会议	人机交互与普适计算
+550	GROUP	ACM Conference on Supporting Group Work	B类	会议	人机交互与普适计算
+551	ASSETS	ACM SIGACCESS Conference on Computers and Accessibility	C类	会议	人机交互与普适计算
+552	DIS	ACM Conference on Designing Interactive Systems	C类	会议	人机交互与普适计算
+553	GI	Graphics Interface conference	C类	会议	人机交互与普适计算
+554	MobiQuitous	International Conference on Mobile and Ubiquitous Systems: Computing,Networking and Services	C类	会议	人机交互与普适计算
+555	INTERACT	IFIP TC13 Conference on Human-Computer Interaction	C类	会议	人机交互与普适计算
+556	CoopIS	International Conference on Cooperative Information Systems	C类	会议	人机交互与普适计算
+557	ICMI 	ACM International Conference on Multimodal Interaction	C类	会议	人机交互与普适计算
+558	IDC	Interaction Design and Children	C类	会议	人机交互与普适计算
+559	AVI	International Working Conference on Advanced Visual Interfaces	C类	会议	人机交互与普适计算
+560	UIC	IEEE International Conference on Ubiquitous Intelligence and Computing	C类	会议	人机交互与普适计算
+561	DIS	ACM Conference on Designing Interactive  Systems	C类	会议	人机交互与普适计算
+562	 	IEEE World Haptics Conference	C类	会议	人机交互与普适计算
+563	CSCWD	International Conference on Computer Supported Cooperative Work in Design	C类	会议	人机交互与普适计算
+564	Collaborate Com	International Conference on Collaborative Computing	C类	会议	人机交互与普适计算
+565	Proc. IEEE	Proceedings of the IEEE	A类	期刊	交叉/综合/新兴
+566	JACM	Journal of the ACM	A类	期刊	交叉/综合/新兴
+567	 	Bioinformatics	B类	期刊	交叉/综合/新兴
+568	 	Briefings in Bioinformatics	B类	期刊	交叉/综合/新兴
+569	Cognition	Cognition：International Journal of Cognitive Science	B类	期刊	交叉/综合/新兴
+570	 	PLOS Computational Biology	B类	期刊	交叉/综合/新兴
+571	TMI	IEEE Transactions on Medical Imaging	B类	期刊	交叉/综合/新兴
+572	TGARS	IEEE Transactions on Geoscience and Remote Sensing	B类	期刊	交叉/综合/新兴
+573	TITS	IEEE Transactions on Intelligent Transportation Systems	B类	期刊	交叉/综合/新兴
+574	TR	IEEE Transactions on Robotics	B类	期刊	交叉/综合/新兴
+575	TASAE	IEEE Transactions on Automation Science and Engineering	B类	期刊	交叉/综合/新兴
+576	JCST	Journal of Computer Science and Technology	B类	期刊	交叉/综合/新兴
+577	JAMIA	Journal of the American Medical Informatics Association	B类	期刊	交叉/综合/新兴
+578	 	Science China Information Sciences	B类	期刊	交叉/综合/新兴
+579	 	The Computer Journal	B类	期刊	交叉/综合/新兴
+580	 	World Wide Web Journal	B类	期刊	交叉/综合/新兴
+581	FCS	Frontiers of Computer Science	C类	期刊	交叉/综合/新兴
+582	 	Medical Image Analysis	C类	期刊	交叉/综合/新兴
+583	 	IET Intelligent Transport Systems	C类	期刊	交叉/综合/新兴
+584	TCBB	IEEE-ACM Transactions on Computational Biology and Bioinformatics	C类	期刊	交叉/综合/新兴
+585	TITB	IEEE Transactions on Information Technology in Biomedicine	C类	期刊	交叉/综合/新兴
+586	 	IEEE Geoscience and Remote Sensing Letters	C类	期刊	交叉/综合/新兴
+587	 	Cybernetics and Systems	C类	期刊	交叉/综合/新兴
+588	 	BMC Bioinformatics	C类	期刊	交叉/综合/新兴
+589	WWW	International World Wide Web Conferences	A类	会议	交叉/综合/新兴
+590	RTSS	Real-Time Systems Symposium	A类	会议	交叉/综合/新兴
+591	EMSOFT	International Conference on Embedded Software	B类	会议	交叉/综合/新兴
+592	ISMB	International conference on Intelligent Systems for Molecular Biology	B类	会议	交叉/综合/新兴
+593	CogSci	Cognitive Science Society Annual Conference	B类	会议	交叉/综合/新兴
+594	RECOMB	International Conference on Research in Computational Molecular Biology	B类	会议	交叉/综合/新兴
+595	BIBM	IEEE International Conference on Bioinformatics and Biomedicine	B类	会议	交叉/综合/新兴
+596	AMIA	American Medical Informatics Association Annual Symposium	C类	会议	交叉/综合/新兴
+597	APBC	Asia Pacific Bioinformatics Conference	C类	会议	交叉/综合/新兴
+598	COSIT	International Conference on Spatial Information Theory	C类	会议	交叉/综合/新兴
+599	 	IEEE International Conference on Cloud Computing	C类	会议	交叉/综合/新兴
